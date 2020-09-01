@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "The Ideological Asymmetry of the American Party System"
 date = "2016-01-01"
 authors = ["Yphtach Lelkes", "Paul M. P.M. Sniderman"]
 publication_types = ["2"]
