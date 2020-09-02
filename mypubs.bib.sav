@@ -11,7 +11,7 @@
   doi       = {10.1093/oxfordhb/9780190860806.013.23},
   file      = {:Users/ylelkes/Dropbox/Mendeley{\_}Files/oxfordhandbook.pdf:pdf},
   keywords  = {comparative political communication,content bias,media bias,po,political polarization,selection bias},
-  url   = {https://www.dropbox.com/s/z3ju6yhxlvzwn38/National%20and%20Cross-National%20Perspectives%20on%20Political%20Media%20Bias?dl=1},
+  url_pdf   = {https://www.dropbox.com/s/z3ju6yhxlvzwn38/National%20and%20Cross-National%20Perspectives%20on%20Political%20Media%20Bias?dl=1},
 }
 
 
@@ -24,7 +24,7 @@ journal = {Journal of Communication},
 title = {{Brevity is the Soul of Twitter: The Constraint Affordance and Political Discussion}},
 url = {https://doi.org/10.1093/joc/jqz023},
 year = {2019},
-url={https://www.dropbox.com/s/c9s4mpxk6thfhtp/brevityjoc.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/c9s4mpxk6thfhtp/brevityjoc.pdf?dl=1}
 
 }
 
@@ -35,7 +35,7 @@ author = {Malka, Ariel and Lelkes, Yphtach and Bakker, Bert and Spivak, Eliyahu}
 journal = {Perspectives on Politics},
 title = {{Who is Open to Authoritarian Governance within Western Democracies?}},
 year = {2020},
-url={https://psyarxiv.com/m8ze5/}
+url_pdf={https://psyarxiv.com/m8ze5/}
 
 }
 
@@ -53,7 +53,7 @@ number = {4},
 pages = {523--543},
 publisher = {Taylor {\&} Francis},
 title = {{Winners, Losers, and the Press: The Relationship Between Political Parallelism and the Legitimacy Gap}},
-url = {https://www.dropbox.com/s/56ap5dkbsnzle8i/Winners%20Losers%20and%20the%20Press%20The%20Relationship%20Between%20Political%20Parallelism%20and%20the%20Legitimacy%20Gap.pdf?dl=1},
+url_pdf = {https://www.dropbox.com/s/56ap5dkbsnzle8i/Winners%20Losers%20and%20the%20Press%20The%20Relationship%20Between%20Political%20Parallelism%20and%20the%20Legitimacy%20Gap.pdf?dl=1},
 volume = {33},
 year = {2016}
 }
@@ -71,7 +71,7 @@ pages = {221--244},
 title = {{Linking Survey and Media Content Data: Opportunities, Considerations, and Pitfalls}},
 volume = {11},
 year = {2017},
-url={https://www.dropbox.com/s/5rtolxf182n8z5f/Linking%20Survey%20and%20Media%20Content%20Data%20Opportunities%20Considerations%20and%20Pitfalls.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/5rtolxf182n8z5f/Linking%20Survey%20and%20Media%20Content%20Data%20Opportunities%20Considerations%20and%20Pitfalls.pdf?dl=1}
 }
 @article{Lelkes2018n,
 abstract = {American partisans are far more hostile towards out-party members than they were 40 years ago. While this phenomenon, often called affective polariza-tion, is well-documented, political scientists disagree on its cause. One group of scholars believes that affective polarization is driven by processes related to social identity theory. In particular, cross-cutting identities have declined in America, and toxic political communication continuously primes partisan identities and resentment. Recently, several scholars have pointed to another phenomenon as the root cause of affective polarization: partisan sorting, i.e. the alignment of par-tisan identities with ideologically consistent issue positions. I review evidence in favor of each claim, and provide additional evidence that affective polarization has increased about as much among those who are not sorted as among those who are sorted. Furthermore, while sorting is only related to affective polarization among the most politically knowledgeable, affective polarization has increased across all levels of political knowledge. Finally, affective polarization may also increase sorting, further complicating any clear cut causal relationship.},
@@ -79,7 +79,7 @@ author = {Lelkes, Yphtach},
 doi = {10.1515/for-2018-0005},
 issn = {15408884},
 journal = {The Forum: A Journal of Applied Research in Contemporary Politics},
-url={https://www.dropbox.com/s/ztcjyf4uyjg998x/The-Forum-Affective-Polarization-and-Ideological-Sorting-A-Reciprocal-Albeit-Weak-Relationship.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/ztcjyf4uyjg998x/The-Forum-Affective-Polarization-and-Ideological-Sorting-A-Reciprocal-Albeit-Weak-Relationship.pdf?dl=1},
 keywords = {mypubs},
 mendeley-tags = {mypubs},
 number = {1},
@@ -100,7 +100,7 @@ keywords = {1 this article examines,a fundamental feature of,around,comparative 
 mendeley-tags = {mypubs},
 pages = {1--25},
 title = {{Are Cultural and Economic Conservatism Positively Correlated? A Large-Scale Cross-National Test}},
-url={https://www.dropbox.com/s/3700car8qo718kx/Malka_et_al_2019.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/3700car8qo718kx/Malka_et_al_2019.pdf?dl=1},
 year = {2017}
 }
 @article{Soto2016,
@@ -117,7 +117,7 @@ pages = {1243--1257},
 title = {{Binding Moral Foundations and the Narrowing of Ideological Conflict to the Traditional Morality Domain}},
 volume = {42},
 year = {2016},
-url={https://www.dropbox.com/s/ar2din9j0x0g01e/0146167216653936.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/ar2din9j0x0g01e/0146167216653936.pdf?dl=1}
 }
 
 @article{Westwood2018c,
@@ -131,12 +131,12 @@ mendeley-tags = {mypubs},
 pages = {1--38},
 title = {{Projecting Confidence: How the Probabilistic Horse Race Confuses and Demobilizes the Public}},
 year = {2019},
-url={https://www.dropbox.com/s/7mqok7n0csovr17/708682.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/7mqok7n0csovr17/708682.pdf?dl=1}
 }
 @article{Lelkes2015,
 abstract = {Acquiescence response bias, or the tendency to agree with questions regardless of content, is a prominent concern in survey design. An often proposed solution, and one that was recently implemented in the American National Election Study, is to rewrite response options so that they tap directly into the dimensions of the construct of interest. However, there is little evidence that this solution improves data quality. We present a study in which we employ two waves of the 2012 American National Election Study in order to compare the reliability and concurrent validity of political efficacy questions in both the agree–disagree and construct-specific formats. Construct-specific questions were not only as reliable and valid as agree–disagree questions generally, they were also as valid among respondents that were most likely to acquiesce. This suggests two possible outcomes: Either agree–disagree questions do not negatively impact data quality or that construct-specific questions are not a panacea for acquiescence response bias.},
 author = {Lelkes, Yphtach and Weiss, Rebecca},
-journal = {Research {\&} Politics},
+journal = {Research {\\&} Politics},
 keywords = {mybib,mypubs},
 mendeley-tags = {mypubs},
 month = {sep},
@@ -144,7 +144,7 @@ number = {3},
 title = {{Much ado about acquiescence: The relative validity and reliability of construct-specific and agree–disagree questions}},
 url = {http://rap.sagepub.com/content/2/3/2053168015604173.abstract},
 volume = {2},
-url={https://www.dropbox.com/s/ar2din9j0x0g01e/0146167216653936.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/ar2din9j0x0g01e/0146167216653936.pdf?dl=1},
 year = {2015}
 }
 
@@ -159,7 +159,7 @@ mendeley-tags = {mypubs},
 number = {June},
 title = {{Race of Interviewer Effects in Telephone Surveys Preceding the 2008 U.S. Presidential Election}},
 url = {https://academic.oup.com/ijpor/advance-article/doi/10.1093/ijpor/edy005/4919655},
-url={https://www.dropbox.com/s/cyj5wxjlxsg0748/edy005.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/cyj5wxjlxsg0748/edy005.pdf?dl=1},
 year = {2018}
 }
 
@@ -172,7 +172,7 @@ mendeley-tags = {mypubs},
 number = {7},
 pages = {1--35},
 title = {{The Origins and Consequences of Affective Polarization in the United States}},
-url={https://www.dropbox.com/s/6frsrs09q85rgib/annurev-polisci-051117-073034.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/6frsrs09q85rgib/annurev-polisci-051117-073034.pdf?dl=1},
 volume = {22},
 year = {2019}
 }
@@ -187,7 +187,7 @@ mendeley-tags = {mypubs},
 number = {6},
 pages = {1291--1299},
 title = {{Complete anonymity compromises the accuracy of self-reports}},
-url={https://www.dropbox.com/s/8tlbf2j7rix1s6o/8-Complete-anonymity-compromises-the-accuracy-of-self-reports.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/8tlbf2j7rix1s6o/8-Complete-anonymity-compromises-the-accuracy-of-self-reports.pdf?dl=1},
 volume = {48},
 year = {2012}
 }
@@ -203,7 +203,7 @@ mendeley-tags = {mypubs},
 number = {5},
 pages = {943--994},
 title = {{Determinants of turnout and candidate choice in the 2008 U.S. presidential election: Illuminating the impact of racial prejudice and other considerations}},
-url={https://www.dropbox.com/s/zef7394jklls6ap/Determinants_of_Turnout_and_Candidate_Choice_in_th.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/zef7394jklls6ap/Determinants_of_Turnout_and_Candidate_Choice_in_th.pdf?dl=1},
 volume = {73},
 year = {2009}
 }
@@ -221,7 +221,7 @@ number = {2},
 pages = {156--188},
 title = {{More than Ideology: Conservative-Liberal Identity and Receptivity to Political Cues}},
 volume = {23},
-url={https://www.dropbox.com/s/9liesr5lwgfmecg/Malka-Lelkes2010_Article_MoreThanIdeologyConservativeLi.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/9liesr5lwgfmecg/Malka-Lelkes2010_Article_MoreThanIdeologyConservativeLi.pdf?dl=1},
 year = {2010}
 }
 @article{Ross2012a,
@@ -237,12 +237,26 @@ number = {10},
 pages = {3616--3622},
 pmid = {22308413},
 title = {{How Christians reconcile their personal political views and the teachings of their faith: Projection as a means of dissonance reduction}},
-url={https://www.dropbox.com/s/tsnio6vhx86305i/3616.full.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/tsnio6vhx86305i/3616.full.pdf?dl=1},
 volume = {109},
 year = {2012}
 }
-
-
+@misc{Iyengar2012,
+abstract = {The current debate over the extent of polarization in the American mass public focuses on the extent to which partisans' policy preferences have moved. Whereas "maximalists" claim that partisans' views on policies have become more extreme over time (Abramowitz 2010), "minimalists" (Fiorina and Abrams 2009) contend that the majority of Americans remain centrist, and that what little centrifugal movement has occurred reflects sorting, i.e., the increased association between partisanship and ideology. We argue in favor of an alternative definition of polarization, based on the classic concept of social distance (Bogardus 1947). Using data from a variety of sources, we demonstrate that both Republicans and Democrats increasingly dislike, even loathe, their opponents. We also find that partisan affect is inconsistently (and perhaps artifactually) founded in policy attitudes. The more plausible account lies in the nature of political campaigns; exposure to messages attacking the out-group reinforces partisans' biased views of their opponents.},
+author = {Iyengar, Shanto and Sood, Gaurav and Lelkes, Yphtach},
+booktitle = {Public Opinion Quarterly},
+doi = {10.1093/poq/nfs038},
+isbn = {1146488491},
+issn = {0033362X},
+keywords = {mypubs},
+mendeley-tags = {mypubs},
+number = {3},
+pages = {405--431},
+title = {{Affect, not ideology: A social identity perspective on polarization}},
+url_pdf={https://www.dropbox.com/s/caupbbxpxf8ei9l/nfs038.pdf?dl=1},
+volume = {76},
+year = {2012}
+}
 @article{Lelkes2019,
 abstract = {At least two theories have been offered that explain the rise of affective polarization. Some scholars, relying on social identity theory, argue that as the relevance of party identification increased, Americans became more likely to see their in-party in positive terms and the out-party in negative terms. Other scholars argue that affective polarization is a reaction to increasingly extreme political actors. This study seeks to arbitrate between these two theories of affective polarization through a survey experiment which asks respondents to rate candidates whose party (or lack thereof) and ideology (or lack thereof) is randomly assigned. In line with the policy-oriented view of affective polarization, respondents reacted far more strongly to ideology than party, especially if it was the ideology of the member of the out-party.},
 author = {Lelkes, Yphtach},
@@ -255,7 +269,7 @@ mendeley-tags = {mypubs},
 pages = {1--17},
 title = {{Policy over party: comparing the effects of candidate ideology and party on affective polarization}},
 volume = {19104},
-url={https://www.dropbox.com/s/polub3dpzznpgsa/policy_over_party_comparing_the_effects_of_candidate_ideology_and_party_on_affective_polarization-2.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/polub3dpzznpgsa/policy_over_party_comparing_the_effects_of_candidate_ideology_and_party_on_affective_polarization-2.pdf?dl=1},
 year = {2018}
 }
 @article{BrenesPeralta2017,
@@ -274,7 +288,7 @@ pmid = {124988202},
 title = {{Selective Exposure to Balanced Content and Evidence Type: The Case of Issue and Non-Issue Publics about Climate Change and Health Care}},
 volume = {94},
 year = {2017},
-url={https://www.dropbox.com/s/in9uliz4svum4ny/1077699016654681.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/in9uliz4svum4ny/1077699016654681.pdf?dl=1}
 }
 @article{Lelkes2017,
 abstract = {{\textcopyright} 2016 by the Southern Political Science Association. All rights reserved. Partisanship increasingly factors into the behavior of Americans in both political and nonpolitical situations, yet the bounds of partisan prejudice are largely unknown. In this paper, we systematically evaluate the limits of partisan prejudice using a series of five studies situated within a typology of prejudice. We find that partisan prejudice predicts suppression of hostile rhetoric toward one's own party, avoidance of members of the opposition, and a desire for preferential treatment for one's own party. While these behaviors may cause incidental or indirect harm to the opposition, we find that even the most affectively polarized - those with the strongest disdain for the opposition - are no more likely to intentionally harm the opposition than those with minimal levels of affective polarization.},
@@ -289,7 +303,7 @@ number = {2},
 pages = {485--501},
 title = {{The Limits of Partisan Prejudice}},
 volume = {79},
-url={https://www.dropbox.com/s/vjuk618xmwmxbwx/688223.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/vjuk618xmwmxbwx/688223.pdf?dl=1},
 year = {2016}
 }
 
@@ -309,7 +323,7 @@ title = {{Mass polarization: Manifestations and measurements}},
 url = {http://poq.oxfordjournals.org/content/early/2016/03/15/poq.nfw005.abstract},
 volume = {80},
 year = {2016},
-url={https://www.dropbox.com/s/l3j06jwyyzvprb1/nfw005.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/l3j06jwyyzvprb1/nfw005.pdf?dl=1}
 }
 @article{Lelkes2016b,
 abstract = {Israel is viewed unfavorably among wide segments of the public within several European democracies, despite being regarded itself as a Western democracy. Does drawing attention to Israel's democratic attributes improve views toward Israel? In two surveys with Dutch national samples, anti-Semitic affect, low anti-Arab/Muslim affect, and left-wing political orientation independently predicted anti-Israel sentiment. However, in experiments embedded within the surveys, making salient Israel's democratic attributes had opposite effects on Israel attitude across those on the right and the left – slightly decreasing anti-Israel sentiment among those with a right-wing orientation but slightly increasing anti-Israel sentiment among those with a left-wing orientation. We discuss potential explanations grounded in social psychological theory as well as implications for the strategic communication efforts of groups seeking to influence attitudes toward Israel.},
@@ -325,7 +339,7 @@ pages = {97--107},
 title = {{Democratic Like Us? Political Orientation and the Effect of Making Democracy Salient on Anti-Israel Attitude}},
 volume = {3},
 year = {2016},
-url={https://www.dropbox.com/s/ggnbtxazcrbf7fl/democratic_like_us_political_orientation_and_the_effect_of_making_democracy_salient_on_antiisrael_attitude.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/ggnbtxazcrbf7fl/democratic_like_us_political_orientation_and_the_effect_of_making_democracy_salient_on_antiisrael_attitude.pdf?dl=1}
 }
 @article{Malka2014a,
 abstract = {We examine whether individual differences in needs for security and certainty predict conservative (vs. liberal) position on both cultural and economic political issues and whether these effects are conditional on nation-level characteristics and individual-level political engagement. Analyses with cross-national data from 51 nations reveal that valuing conformity, security, and tradition over self-direction and stimulation (a) predicts ideological self-placement on the political right, but only among people high in political engagement and within relatively developed nations, ideologically constrained nations, and non-Eastern European nations, (b) reliably predicts right-wing cultural attitudes and does so more strongly within developed and ideologically constrained nations, and (c) on average predicts left-wing economic attitudes but does so more weakly among people high in political engagement, within ideologically constrained nations, and within non-Eastern European nations. These findings challenge the prevailing view that needs for security and certainty organically yield a broad right-wing ideology and that exposure to political discourse better equips people to select the broad ideology that is most need satisfying. Rather, these findings suggest that needs for security and certainty generally yield culturally conservative but economically left-wing preferences and that exposure to political discourse generally weakens the latter relation. We consider implications for the interactive influence of personality characteristics and social context on political attitudes and discuss the importance of assessing multiple attitude domains, assessing political engagement, and considering national characteristics when studying the psychological origins of political attitudes. (PsycINFO Database Record (c) 2014 APA, all rights reserved).},
@@ -340,7 +354,7 @@ number = {6},
 pages = {1031--1051},
 title = {{Do needs for security and certainty predict cultural and economic conservatism? A cross-national analysis}},
 volume = {106},
-url={https://www.dropbox.com/s/u4gbwxvlo936wie/jpspmalkanfs.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/u4gbwxvlo936wie/jpspmalkanfs.pdf?dl=1},
 year = {2014}
 }
 @article{Lelkes2017c,
@@ -357,7 +371,7 @@ pages = {5--20},
 title = {{The Hostile Audience: The Effect of Access to Broadband Internet on Partisan Affect}},
 volume = {61},
 year = {2017},
-url={https://www.dropbox.com/s/ie5vevnaflpao5a/ajps.12237.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/ie5vevnaflpao5a/ajps.12237.pdf?dl=1}
 }
 @article{Lelkes2016,
 abstract = {Most Americans support liberal policies on the social welfare agenda, the dominant policy cleavage in American politics. Yet a striking feature of the US party system is its tendency to equilibrium. How, then, does the Republican Party minimize defection on the social welfare agenda? The results of this study illustrate a deep ideological asymmetry between the parties. Republican identifiers are ideologically aware and oriented to a degree that far exceeds their Democratic counterparts. Our investigation, which utilizes cross-sectional, longitudinal and experimental data, demonstrates the role of ideological awareness and involvement in the Republicans' ability to maintain the backing of their supporters even on issues on which the position of the Democratic Party is widely popular. It also exposes two mechanisms, party branding and the use of the status quo as a focal point, that Democrats use to retain or rally support for issues on the social welfare agenda on which the Republican Party's position is widely popular.},
@@ -373,7 +387,7 @@ pages = {825--844},
 title = {{}},
 volume = {46},
 year = {2016},
-url={{https://www.dropbox.com/s/omjod7jslkdqwwi/ideological_asymmetry_of_the_american_party_system.pdf?dl=1}}
+url_pdf={{https://www.dropbox.com/s/omjod7jslkdqwwi/ideological_asymmetry_of_the_american_party_system.pdf?dl=1}}
 }
 @article{Bakker2013,
 abstract = {applicability for this approach.},
@@ -394,7 +408,7 @@ pmid = {25246403},
 title = {{Selling ourselves short? How abbreviated measures of personality change the way think about personality and politics}},
 volume = {53},
 year = {2013},
-url={https://www.dropbox.com/s/75j9ks4tvqwye27/698928.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/75j9ks4tvqwye27/698928.pdf?dl=1}
 }
 @article{Malka2012b,
 abstract = {Some argue that there is an organic connection between being religious and being politically conservative. We evaluate an alternative thesis that the relation between religiosity and political conservatism largely results from engagement with political discourse that indicates that these characteristics go together. In a combined sample of national survey respondents from 1996 to 2008, religiosity was associated with conservative positions on a wide range of attitudes and values among the highly politically engaged, but this association was generally weaker or nonexistent among those less engaged with politics. The specific political characteristics for which this pattern existed varied across ethno-religious groups. These results suggest that whether religiosity trans- lates into political conservatism depends to an important degree on level of engagement with political discourse.},
@@ -413,7 +427,7 @@ pages = {275--299},
 pmid = {8228167},
 title = {{The association of religiosity and political conservatism: The role of political engagement}},
 volume = {33},
-url={https://www.dropbox.com/s/s2t5zmkdgehj2hb/j.1467-9221.2012.00875.x.pdf?dl=1},
+url_pdf={https://www.dropbox.com/s/s2t5zmkdgehj2hb/j.1467-9221.2012.00875.x.pdf?dl=1},
 year = {2012}
 }
 @article{Westwood2018d,
@@ -424,7 +438,7 @@ keywords = {mypubs},
 mendeley-tags = {mypubs},
 title = {{Are There Still Limits on Partisan Prejudice ?}},
 year = {2019},
-url={https://www.dropbox.com/s/bg2on5nylxksgzh/nfz034.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/bg2on5nylxksgzh/nfz034.pdf?dl=1}
 }
 @article{Bakker2019,
 author = {Bakker, Bert N and Lelkes, Yphtach and Malka, Ariel},
@@ -433,9 +447,21 @@ keywords = {mypubs},
 mendeley-tags = {mypubs},
 title = {{Understanding Partisan Cue Receptivity: Tests of Predictions from the Bounded Rationality and Expressive Utility Perspectives.}},
 year = {2019},
-url={https://www.dropbox.com/s/8bk7s0p8z29jpr8/707616.pdf?dl=1}
+url_pdf={https://www.dropbox.com/s/8bk7s0p8z29jpr8/707616.pdf?dl=1}
 }
-
+@article{lelkes_2018,
+author = {Lelkes, Yphtach},
+doi = {10.1017/S1537592718003006},
+journal = {Perspectives on Politics},
+keywords = {mypubs},
+mendeley-tags = {mypubs},
+number = {4},
+pages = {1179--1181},
+publisher = {Cambridge University Press},
+title = {{Uncivil Agreement: How Politics Became our Identity. By Lilliana Mason. University of Chicago Press, 2018. 192p. {\\$}105.00 cloth, {\\$}20.00 paper.}},
+volume = {16},
+year = {2018}
+}
 @techreport{sood2016don,
 author = {Sood, Gaurav and Lelkes, Yphtach},
 booktitle = {Oxford Research Encyclopedia},
@@ -459,7 +485,7 @@ year = {2017}
 
 @Article{Lelkes2018,
   author        = {Lelkes, Yphtach},
-  title         = {{Uncivil Agreement: How Politics Became our Identity. By Lilliana Mason. University of Chicago Press, 2018. 192p.}},
+  title         = {{Uncivil Agreement: How Politics Became our Identity. By Lilliana Mason. University of Chicago Press, 2018. 192p. {\\$}105.00 cloth, {\\$}20.00 paper.}},
   journal       = {Perspectives on Politics},
   year          = {2018},
   volume        = {16},
@@ -471,32 +497,28 @@ year = {2017}
   publisher     = {Cambridge University Press},
 }
 
+@Article{Lelkes2018a,
+  author        = {Lelkes, Yphtach},
+  title         = {{Uncivil Agreement: How Politics Became our Identity. By Lilliana Mason. University of Chicago Press, 2018. 192p. {\\$}105.00 cloth, {\\$}20.00 paper.}},
+  journal       = {Perspectives on Politics},
+  year          = {2018},
+  volume        = {16},
+  number        = {4},
+  pages         = {1179--1181},
+  doi           = {10.1017/S1537592718003006},
+  keywords      = {mypubs},
+  mendeley-tags = {mypubs},
+  publisher     = {Cambridge University Press},
+}
 
-@Article{fischer2020,
+@article{fischer2020,
 author = {Fischer, Sean and Jaidka, Kokil and Lelkes, Yphtach},
 journal = {Nature Human Behavior},
 keywords = {mypubs},
 mendeley-tags = {mypubs},
 title = {{National news outlets are favored overlocal news outlets in news aggregatorresults}},
 year = {2020},
-url_preprint={https://osf.io/d9k7n/?direct%26mode=render%26action=download%26mode=render}
+url_pdf={{https://osf.io/d9k7n/?direct%26mode=render%26action=download%26mode=render}}
 }
 
-
-@Article{Iyengar2012,
-abstract = {The current debate over the extent of polarization in the American mass public focuses on the extent to which partisans' policy preferences have moved. Whereas "maximalists" claim that partisans' views on policies have become more extreme over time (Abramowitz 2010), "minimalists" (Fiorina and Abrams 2009) contend that the majority of Americans remain centrist, and that what little centrifugal movement has occurred reflects sorting, i.e., the increased association between partisanship and ideology. We argue in favor of an alternative definition of polarization, based on the classic concept of social distance (Bogardus 1947). Using data from a variety of sources, we demonstrate that both Republicans and Democrats increasingly dislike, even loathe, their opponents. We also find that partisan affect is inconsistently (and perhaps artifactually) founded in policy attitudes. The more plausible account lies in the nature of political campaigns; exposure to messages attacking the out-group reinforces partisans' biased views of their opponents.},
-author = {Iyengar, Shanto and Sood, Gaurav and Lelkes, Yphtach},
-journaltitle = {Public Opinion Quarterly},
-doi = {10.1093/poq/nfs038},
-isbn = {1146488491},
-issn = {0033362X},
-keywords = {mypubs},
-mendeley-tags = {mypubs},
-number = {3},
-pages = {405--431},
-title = {{Affect, not ideology: A social identity perspective on polarization}},
-url={https://www.dropbox.com/s/caupbbxpxf8ei9l/nfs038.pdf?dl=1},
-volume = {76},
-year = {2012}
-}
 @Comment{jabref-meta: databaseType:bibtex;}

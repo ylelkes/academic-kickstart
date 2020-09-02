@@ -1,0 +1,28 @@
++++
+title = "Complete anonymity compromises the accuracy of self-reports"
+date = "2012-01-01"
+authors = ["Yphtach Lelkes", "Jon A. Krosnick", "David M. Marx", "Charles M. Judd", "Bernadette Park"]
+publication_types = ["2"]
+publication = "Journal of Experimental Social Psychology, (48), 6, _pp. 1291--1299_, https://doi.org/10.1016/j.jesp.2012.07.002"
+publication_short = "Journal of Experimental Social Psychology, (48), 6, _pp. 1291--1299_, https://doi.org/10.1016/j.jesp.2012.07.002"
+abstract = "Studies have shown that allowing people to answer questionnaires completely anonymously yields more reports of socially inappropriate attitudes, beliefs, and behaviors, and researchers have often assumed that this is evidence of increased honesty. But such evidence does not demonstrate that reports gathered under completely anonymous conditions are more accurate. Although complete anonymity may decrease a person's motivation to distort reports in socially desirable directions, complete anonymity may also decrease accountability, thereby decreasing motivation to answer thoughtfully and precisely. Three studies reported in this paper demonstrate that allowing college student participants to answer questions completely anonymously sometimes increased reports of socially undesirable attributes, but consistently reduced reporting accuracy and increased survey satisficing. These studies suggest that complete anonymity may compromise measurement accuracy rather than improve it. \textcopyright 2012."
+abstract_short = ""
+image_preview = ""
+selected = false
+projects = []
+tags = []
+url_pdf = "https://www.dropbox.com/s/8tlbf2j7rix1s6o/8-Complete-anonymity-compromises-the-accuracy-of-self-reports.pdf?dl=1"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+math = true
+highlight = true
+[header]
+image = ""
+caption = ""
++++
