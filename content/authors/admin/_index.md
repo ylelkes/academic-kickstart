@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Communication and Political Science (Secondary)
+role: Associate Professor of Communication and Political Science (Secondary)
 
 # Organizations/Affiliations
 organizations:
