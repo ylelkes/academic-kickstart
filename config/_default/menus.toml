@@ -22,10 +22,10 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    url = "https://www.dropbox.com/s/0pjxbvothne2kum/CV.pdf?dl=1"
+    url = "files/cv.pdf"
     weight = 40
 
 [[main]]
     name= "The Democracy and Information Group"
-    url = "https://www.asc.upenn.edu/research/working-groups/democracy-information-group"
+    url = "https://www.asc.upenn.edu/research/centers/democracy-and-information-group"
     weight = 50
