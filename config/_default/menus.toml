@@ -26,6 +26,11 @@
     weight = 40
 
 [[main]]
+    name= "Polarization Research Lab"
+    url = "https://polarizationresearchlab.org/"
+    weight = 50
+
+[[main]]
     name= "The Democracy and Information Group"
     url = "https://www.asc.upenn.edu/research/centers/democracy-and-information-group"
-    weight = 50
+    weight = 60
