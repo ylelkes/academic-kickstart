@@ -25,14 +25,4 @@
     url = "files/cv.pdf"
     weight = 40
 
-[[main]]
-    name= "Polarization Research Lab"
-    url = "https://polarizationresearchlab.org/"
-    hrefTargetBlank = false
-    weight = 50
 
-[[main]]
-    name= "The Democracy and Information Group"
-    url = "https://www.asc.upenn.edu/research/centers/democracy-and-information-group"
-    hrefTargetBlank = false
-    weight = 60
