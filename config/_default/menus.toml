@@ -27,10 +27,12 @@
 
 [[main]]
     name= "Polarization Research Lab"
-    external_link = "https://polarizationresearchlab.org/"
+    url = "https://polarizationresearchlab.org/"
+    hrefTargetBlank = false
     weight = 50
 
 [[main]]
     name= "The Democracy and Information Group"
-    external_link = "https://www.asc.upenn.edu/research/centers/democracy-and-information-group"
+    url = "https://www.asc.upenn.edu/research/centers/democracy-and-information-group"
+    hrefTargetBlank = false
     weight = 60
