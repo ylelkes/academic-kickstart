@@ -25,12 +25,12 @@
     url = "files/cv.pdf"
     weight = 40
 
-[[menu]]
+[[main]]
     name= "Polarization Research Lab"
     external_link = "https://polarizationresearchlab.org/"
     weight = 50
 
-[[menu]]
+[[main]]
     name= "The Democracy and Information Group"
     external_link = "https://www.asc.upenn.edu/research/centers/democracy-and-information-group"
     weight = 60
