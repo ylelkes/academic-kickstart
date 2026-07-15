@@ -1,6 +1,11 @@
 ---
-title:
-description: Yphtach Lelkes, Professor of Communication and member of the Political Science Graduate Group at the University of Pennsylvania.
+title: Yphtach Lelkes
+description: Yphtach Lelkes, Professor at the Annenberg School for Communication and Political Science (Secondary), University of Pennsylvania.
+subtitle: |-
+  Professor
+  Annenberg School for Communication and
+  Political Science (Secondary)
+  University of Pennsylvania.
 ---
 
 <h2>Bio</h2>
@@ -12,8 +17,5 @@ Before joining the University of Pennsylvania, I was faculty at the Amsterdam Sc
 Please feel free to reach out to me for prints of my work.
 
 <h2 id="contact">Contact</h2>
-
-Professor of Communication and Member of the Political Science Graduate Group<br>
-University of Pennsylvania
 
 [ylelkes@upenn.edu](mailto:ylelkes@upenn.edu)

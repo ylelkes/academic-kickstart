@@ -1,8 +1,10 @@
 {{ define "main" }}
   <section class="intro" id="bio">
     <p class="kicker">University of Pennsylvania</p>
-    <h1>Yphtach Lelkes</h1>
-    <p class="subtitle">Professor of Communication and Member of the Political Science Graduate Group</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+      <p class="subtitle">{{ replace . "\n" "<br>" | safeHTML }}</p>
+    {{ end }}
     <p class="profile-links">
       <a href="https://scholar.google.com/citations?user=agGvWl8AAAAJ&hl=en">Google Scholar</a>
       <span aria-hidden="true">/</span>
