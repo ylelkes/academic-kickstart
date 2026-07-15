@@ -1,6 +1,18 @@
 ---
 title: Publications
 
+# Keep publication source files in the repo, but do not generate a publications
+# section or individual publication pages.
+_build:
+  render: never
+  list: never
+  publishResources: false
+cascade:
+  _build:
+    render: never
+    list: never
+    publishResources: false
+
 # View.
 #   1 = List
 #   2 = Compact
