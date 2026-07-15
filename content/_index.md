@@ -18,4 +18,7 @@ Please feel free to reach out to me for prints of my work.
 
 <h2 id="contact">Contact</h2>
 
-[ylelkes@upenn.edu](mailto:ylelkes@upenn.edu)
+<p class="contact-line">
+  <button class="email-reveal" type="button" data-user="eWxlbGtlcw==" data-domain="dXBlbm4uZWR1">Reveal email</button>
+  <span class="email-output" aria-live="polite"></span>
+</p>

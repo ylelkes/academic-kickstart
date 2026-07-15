@@ -24,5 +24,18 @@
     <footer class="site-footer">
       <p>&copy; {{ now.Format "2006" }} Yphtach Lelkes</p>
     </footer>
+    <script>
+      document.querySelectorAll('.email-reveal').forEach((button) => {
+        button.addEventListener('click', () => {
+          const address = `${atob(button.dataset.user)}@${atob(button.dataset.domain)}`;
+          const link = document.createElement('a');
+          link.href = `mailto:${address}`;
+          link.textContent = address;
+          const output = button.nextElementSibling;
+          output.replaceChildren(link);
+          button.remove();
+        });
+      });
+    </script>
   </body>
 </html>
