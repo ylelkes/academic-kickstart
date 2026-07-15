@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}Yphtach Lelkes, Professor of Communication and Political Science at the University of Pennsylvania.{{ end }}">
+    <title>{{ if .IsHome }}Yphtach Lelkes{{ else }}{{ .Title }} | Yphtach Lelkes{{ end }}</title>
+    {{ $css := resources.Get "css/site.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">Yphtach Lelkes</a>
+      <nav aria-label="Main navigation">
+        <a href="/">Home</a>
+        <a href="/publications/">Publications</a>
+        <a href="/cv/">CV</a>
+        <a href="/#contact">Contact</a>
+      </nav>
+    </header>
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer class="site-footer">
+      <p>&copy; {{ now.Format "2006" }} Yphtach Lelkes</p>
+    </footer>
+  </body>
+</html>

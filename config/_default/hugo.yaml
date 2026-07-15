@@ -1,0 +1,17 @@
+title: 'Yphtach Lelkes'
+baseURL: 'https://ylelkes.com/'
+locale: en-US
+defaultContentLanguage: en
+enableGitInfo: false
+summaryLength: 30
+enableRobotsTXT: true
+disableKinds: [taxonomy, term, RSS]
+ignoreFiles: ['\.ipynb_checkpoints$', '\.Rmd$', '\.Rmarkdown$', '_cache$']
+disableAliases: true
+taxonomies: {}
+markup:
+  highlight:
+    lineNos: false
+  goldmark:
+    renderer:
+      unsafe: true

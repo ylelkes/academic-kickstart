@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <article class="content publications">
+    <header class="page-title">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </header>
+
+    {{ range hugo.Data.publications.groups }}
+      <section class="publication-group">
+        <h2>{{ .title }}</h2>
+        <ol class="publication-list">
+          {{ range .items }}
+            <li>
+              {{ .citation }}
+              {{ with .doi }}
+                <a class="pub-link" href="https://doi.org/{{ . }}">doi</a>
+              {{ else }}
+                {{ with .url }}<a class="pub-link" href="{{ . }}">link</a>{{ end }}
+              {{ end }}
+            </li>
+          {{ end }}
+        </ol>
+      </section>
+    {{ end }}
+  </article>
+{{ end }}

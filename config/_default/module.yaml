@@ -1,0 +1,9 @@
+mounts:
+  - source: content
+    target: content
+  - source: static
+    target: static
+  - source: layouts
+    target: layouts
+  - source: assets
+    target: assets

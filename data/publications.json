@@ -1,0 +1,1238 @@
+{
+  "groups": [
+    {
+      "title": "Peer-Reviewed Publications",
+      "items": [
+        {
+          "id": "ahn2026animosity",
+          "year": "2026",
+          "title": "Animosity is for the Audience: How Social Context Shapes Expressions of Political Hostility",
+          "authors": [
+            "C. Ahn",
+            "S. Huang",
+            "Y. Lelkes"
+          ],
+          "venue": "The Economic Journal",
+          "doi": "",
+          "url": "",
+          "citation": "C. Ahn, S. Huang, & Y. Lelkes (2026). Animosity is for the Audience: How Social Context Shapes Expressions of Political Hostility. The Economic Journal, ueag055"
+        },
+        {
+          "id": "jacob2026entrepreneurs",
+          "year": "2026",
+          "title": "Entrepreneurs of conflict: A descriptive analysis of when and how political elites use divisive rhetoric",
+          "authors": [
+            "M. S. Jacob",
+            "Y. Lelkes",
+            "S. J. Westwood"
+          ],
+          "venue": "PNAS nexus",
+          "doi": "",
+          "url": "",
+          "citation": "M. S. Jacob, Y. Lelkes, & S. J. Westwood (2026). Entrepreneurs of conflict: A descriptive analysis of when and how political elites use divisive rhetoric. PNAS nexus, 5(3), pgag038"
+        },
+        {
+          "id": "yang2026lurkers",
+          "year": "2026",
+          "title": "Lurkers, Interactors, Creators: Modeling Behavioral and Ideological Diversity on X",
+          "authors": [
+            "C. Yang",
+            "K. Jaidka",
+            "Y. Lelkes",
+            "S. Mukerjee"
+          ],
+          "venue": "Proceedings of the ACM Web Conference 2026",
+          "doi": "",
+          "url": "",
+          "citation": "C. Yang, K. Jaidka, Y. Lelkes, & S. Mukerjee (2026). Lurkers, Interactors, Creators: Modeling Behavioral and Ideological Diversity on X. Proceedings of the ACM Web Conference 2026, 8781–8784"
+        },
+        {
+          "id": "abramitzky2026expression",
+          "year": "2026",
+          "title": "Expression at the edge: Free speech boundaries amidst the Gaza crisis",
+          "authors": [
+            "R. Abramitzky",
+            "G. Grossman",
+            "Y. Lelkes",
+            "H. Mansour",
+            "T. Mitts"
+          ],
+          "venue": "Science Advances",
+          "doi": "",
+          "url": "",
+          "citation": "R. Abramitzky, G. Grossman, Y. Lelkes, H. Mansour, & T. Mitts (2026). Expression at the edge: Free speech boundaries amidst the Gaza crisis. Science Advances, 12(16), eaea5427"
+        },
+        {
+          "id": "jacob2026systemic",
+          "year": "2026",
+          "title": "Systemic electioneering from the evangelical pulpit: Evidence from a computational analysis",
+          "authors": [
+            "M. S. Jacob",
+            "Y. Lelkes",
+            "S. Wolken",
+            "S. J. Westwood"
+          ],
+          "venue": "Proceedings of the National Academy of Sciences",
+          "doi": "",
+          "url": "",
+          "citation": "M. S. Jacob, Y. Lelkes, S. Wolken, & S. J. Westwood (2026). Systemic electioneering from the evangelical pulpit: Evidence from a computational analysis. Proceedings of the National Academy of Sciences, 123(21), e2603911123"
+        },
+        {
+          "id": "Holliday2025Depolarization",
+          "year": "2025",
+          "title": "Why Depolarization Is Hard: Evaluating Attempts to Decrease Partisan Animosity in America",
+          "authors": [
+            "D. E. Holliday",
+            "Y. Lelkes",
+            "S. J. Westwood"
+          ],
+          "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+          "doi": "",
+          "url": "",
+          "citation": "D. E. Holliday, Y. Lelkes, & S. J. Westwood (2025). Why Depolarization Is Hard: Evaluating Attempts to Decrease Partisan Animosity in America. Proceedings of the National Academy of Sciences of the United States of America, 122(39), e2508827122"
+        },
+        {
+          "id": "Holliday2025Skeptics",
+          "year": "2025",
+          "title": "Who Are the Election Skeptics? Evidence from the 2022 Midterm Elections",
+          "authors": [
+            "D. E. Holliday",
+            "J. Grimmer",
+            "Y. Lelkes",
+            "S. J. Westwood"
+          ],
+          "venue": "Election Law Journal: Rules, Politics, and Policy",
+          "doi": "",
+          "url": "",
+          "citation": "D. E. Holliday, J. Grimmer, Y. Lelkes, & S. J. Westwood (2025). Who Are the Election Skeptics? Evidence from the 2022 Midterm Elections. Election Law Journal: Rules, Politics, and Policy, 24(1), 1–17"
+        },
+        {
+          "id": "Dias2025UnderestimateDiversity",
+          "year": "2025",
+          "title": "American Partisans Vastly Underestimate the Diversity of Other Partisans' Policy Attitudes",
+          "authors": [
+            "N. C. Dias",
+            "Y. Lelkes",
+            "J. Pearl"
+          ],
+          "venue": "Political Science Research and Methods",
+          "doi": "",
+          "url": "",
+          "citation": "N. C. Dias, Y. Lelkes, & J. Pearl (2025). American Partisans Vastly Underestimate the Diversity of Other Partisans' Policy Attitudes. Political Science Research and Methods, 13(3), 725-735"
+        },
+        {
+          "id": "Zhou2025WorkplaceComm",
+          "year": "2025",
+          "title": "Partisan Prejudice and Workplace Communication: An Empirical Roadmap",
+          "authors": [
+            "A. Zhou",
+            "Y. Lelkes"
+          ],
+          "venue": "Management Communication Quarterly",
+          "doi": "",
+          "url": "",
+          "citation": "A. Zhou & Y. Lelkes (2025). Partisan Prejudice and Workplace Communication: An Empirical Roadmap. Management Communication Quarterly, 39(4), 746–753"
+        },
+        {
+          "id": "Fasching2025ACL",
+          "year": "2025",
+          "title": "Model-Dependent Moderation: Inconsistencies in Hate Speech Detection Across LLM-Based Systems",
+          "authors": [
+            "N. Fasching",
+            "Y. Lelkes"
+          ],
+          "venue": "Findings of the Association for Computational Linguistics: ACL 2025",
+          "doi": "",
+          "url": "",
+          "citation": "N. Fasching & Y. Lelkes (2025). Model-Dependent Moderation: Inconsistencies in Hate Speech Detection Across LLM-Based Systems. Findings of the Association for Computational Linguistics: ACL 2025, 22271–22285"
+        },
+        {
+          "id": "Arceneaux2025Dispositions",
+          "year": "2025",
+          "title": "A Critical Evaluation and Research Agenda for the Study of Psychological Dispositions and Political Attitudes",
+          "authors": [
+            "K. Arceneaux",
+            "B. N. Bakker",
+            "N. Fasching",
+            "Y. Lelkes"
+          ],
+          "venue": "Advances in Political Psychology",
+          "doi": "",
+          "url": "",
+          "citation": "K. Arceneaux, B. N. Bakker, N. Fasching, & Y. Lelkes (2025). A Critical Evaluation and Research Agenda for the Study of Psychological Dispositions and Political Attitudes. Advances in Political Psychology, 46(Suppl. 1), 7–37"
+        },
+        {
+          "id": "Ahn2024Sanctioning",
+          "year": "2024",
+          "title": "Sanctioning Political Speech on Social Media Is Driven by Partisan Norms and Identity Signaling",
+          "authors": [
+            "C. Ahn",
+            "Y. Lelkes",
+            "M. Levendusky"
+          ],
+          "venue": "PNAS Nexus",
+          "doi": "",
+          "url": "",
+          "citation": "C. Ahn, Y. Lelkes, & M. Levendusky (2024). Sanctioning Political Speech on Social Media Is Driven by Partisan Norms and Identity Signaling. PNAS Nexus, 3(12), pgae534"
+        },
+        {
+          "id": "Holliday2024Uncommon",
+          "year": "2024",
+          "title": "Uncommon and Nonpartisan: Antidemocratic Attitudes in the American Public",
+          "authors": [
+            "D. E. Holliday",
+            "S. Iyengar",
+            "Y. Lelkes",
+            "S. J. Westwood"
+          ],
+          "venue": "Proceedings of the National Academy of Sciences",
+          "doi": "",
+          "url": "",
+          "citation": "D. E. Holliday, S. Iyengar, Y. Lelkes, & S. J. Westwood (2024). Uncommon and Nonpartisan: Antidemocratic Attitudes in the American Public. Proceedings of the National Academy of Sciences, 121(13), e2313013121"
+        },
+        {
+          "id": "Holliday2024UniformStates",
+          "year": "2024",
+          "title": "Affective Polarization Is Uniformly Distributed Across American States",
+          "authors": [
+            "D. E. Holliday",
+            "Y. Lelkes",
+            "S. J. Westwood"
+          ],
+          "venue": "PNAS Nexus",
+          "doi": "",
+          "url": "",
+          "citation": "D. E. Holliday, Y. Lelkes, & S. J. Westwood (2024). Affective Polarization Is Uniformly Distributed Across American States. PNAS Nexus, 3(10), pgae310"
+        },
+        {
+          "id": "Fasching2024Persistent",
+          "year": "2024",
+          "title": "Persistent Polarization: The Unexpected Durability of Political Animosity Around U.S. Elections",
+          "authors": [
+            "N. Fasching",
+            "S. Iyengar",
+            "Y. Lelkes",
+            "S. J. Westwood"
+          ],
+          "venue": "Science Advances",
+          "doi": "",
+          "url": "",
+          "citation": "N. Fasching, S. Iyengar, Y. Lelkes, & S. J. Westwood (2024). Persistent Polarization: The Unexpected Durability of Political Animosity Around U.S. Elections. Science Advances, 10(36), eadm9198"
+        },
+        {
+          "id": "Dias2024NotEffective",
+          "year": "2024",
+          "title": "Correcting Misperceptions of Partisan Opponents Is Not Effective at Treating Democratic Ills",
+          "authors": [
+            "N. C. Dias",
+            "L. F. Aarslew",
+            "K. V. S. Frederiksen",
+            "Y. Lelkes",
+            "L. Pradella",
+            "S. J. Westwood"
+          ],
+          "venue": "PNAS Nexus",
+          "doi": "",
+          "url": "",
+          "citation": "N. C. Dias, L. F. Aarslew, K. V. S. Frederiksen, Y. Lelkes, L. Pradella, & S. J. Westwood (2024). Correcting Misperceptions of Partisan Opponents Is Not Effective at Treating Democratic Ills. PNAS Nexus, 3(8), gae304"
+        },
+        {
+          "id": "Claassen2024DemocracyMeasure",
+          "year": "2024",
+          "title": "Conceptualizing and Measuring Support for Democracy: A New Approach",
+          "authors": [
+            "C. Claassen",
+            "K. Ackermann",
+            "E. Bertsou",
+            "J. Borba",
+            "R. E. Carlin",
+            "A. Cavari",
+            "S. Dahlum",
+            "S. Gherghina",
+            "D. Hawkins",
+            "Y. Lelkes",
+            "P. C. Magalhães",
+            "R. B. Mattes",
+            "M. J. Meijers",
+            "A. Neundorf",
+            "D. Oross",
+            "A. Öztürk",
+            "R. Sarsfield",
+            "D. Self",
+            "B. Stanley",
+            "T. H. Tsai",
+            "A. Zaslove",
+            "E. J. Zechmeister"
+          ],
+          "venue": "Comparative Political Studies",
+          "doi": "",
+          "url": "",
+          "citation": "C. Claassen, K. Ackermann, E. Bertsou, J. Borba, R. E. Carlin, A. Cavari, S. Dahlum, S. Gherghina, D. Hawkins, Y. Lelkes, P. C. Magalhães, R. B. Mattes, M. J. Meijers, A. Neundorf, D. Oross, A. Öztürk, R. Sarsfield, D. Self, B. Stanley, T. H. Tsai, A. Zaslove, & E. J. Zechmeister (2024). Conceptualizing and Measuring Support for Democracy: A New Approach. Comparative Political Studies, 58(6), 1171–1198"
+        },
+        {
+          "id": "Bakker2024AffectIntoAffective",
+          "year": "2024",
+          "title": "Putting the Affect into Affective Polarisation",
+          "authors": [
+            "B. N. Bakker",
+            "Y. Lelkes"
+          ],
+          "venue": "Cognition & Emotion",
+          "doi": "",
+          "url": "",
+          "citation": "B. N. Bakker & Y. Lelkes (2024). Putting the Affect into Affective Polarisation. Cognition & Emotion, 38(4), 418–436"
+        },
+        {
+          "id": "Hopkins2025IdentityMedia",
+          "year": "2025",
+          "title": "The Rise of and Demand for Identity-Oriented Media Coverage",
+          "authors": [
+            "D. J. Hopkins",
+            "Y. Lelkes",
+            "S. Wolken"
+          ],
+          "venue": "American Journal of Political Science",
+          "doi": "",
+          "url": "",
+          "citation": "D. J. Hopkins, Y. Lelkes, & S. Wolken (2025). The Rise of and Demand for Identity-Oriented Media Coverage. American Journal of Political Science, 69(2), 483–500"
+        },
+        {
+          "id": "Fasching2024AncestralKinship",
+          "year": "2024",
+          "title": "Ancestral Kinship and the Origins of Ideology",
+          "authors": [
+            "N. N. Fasching",
+            "Y. Lelkes"
+          ],
+          "venue": "British Journal of Political Science",
+          "doi": "",
+          "url": "",
+          "citation": "N. N. Fasching & Y. Lelkes (2024). Ancestral Kinship and the Origins of Ideology. British Journal of Political Science, 54(1), 1–21"
+        },
+        {
+          "id": "Turow2023ConsentData",
+          "year": "2023",
+          "title": "Americans Cannot Consent to Companies' Use of Their Data",
+          "authors": [
+            "J. Turow",
+            "Y. Lelkes",
+            "N. A. Draper",
+            "A. E. Waldman"
+          ],
+          "venue": "International Journal of Communication",
+          "doi": "",
+          "url": "",
+          "citation": "J. Turow, Y. Lelkes, N. A. Draper, & A. E. Waldman (2023). Americans Cannot Consent to Companies' Use of Their Data. International Journal of Communication, 17, 4796–4817"
+        },
+        {
+          "id": "Jaidka2023Nationalization",
+          "year": "2023",
+          "title": "News Nationalization in a Digital Age: An Examination of How Local Protests Are Covered and Curated Online",
+          "authors": [
+            "K. Jaidka",
+            "S. Fischer",
+            "Y. Lelkes",
+            "Y. Wang"
+          ],
+          "venue": "The Annals of the American Academy of Political and Social Science",
+          "doi": "",
+          "url": "",
+          "citation": "K. Jaidka, S. Fischer, Y. Lelkes, & Y. Wang (2023). News Nationalization in a Digital Age: An Examination of How Local Protests Are Covered and Curated Online. The Annals of the American Academy of Political and Social Science, 707(1), 189–207"
+        },
+        {
+          "id": "GonzalezBailon2023Cohesion",
+          "year": "2023",
+          "title": "Do Social Media Undermine Social Cohesion? A Critical Review",
+          "authors": [
+            "S. González-Bailón",
+            "Y. Lelkes"
+          ],
+          "venue": "Social Issues and Policy Review",
+          "doi": "",
+          "url": "",
+          "citation": "S. González-Bailón & Y. Lelkes (2023). Do Social Media Undermine Social Cohesion? A Critical Review. Social Issues and Policy Review, 17(1), 155–180"
+        },
+        {
+          "id": "Jaidka2023Shadowbans",
+          "year": "2023",
+          "title": "Silenced on Social Media: The Gatekeeping Functions of Shadowbans in the American Twitterverse",
+          "authors": [
+            "K. Jaidka",
+            "S. Mukerjee",
+            "Y. Lelkes"
+          ],
+          "venue": "Journal of Communication",
+          "doi": "",
+          "url": "",
+          "citation": "K. Jaidka, S. Mukerjee, & Y. Lelkes (2023). Silenced on Social Media: The Gatekeeping Functions of Shadowbans in the American Twitterverse. Journal of Communication, 73(2), 163–178"
+        },
+        {
+          "id": "Malka2022Authoritarian",
+          "year": "2022",
+          "title": "Who Is Open to Authoritarian Governance Within Western Democracies?",
+          "authors": [
+            "A. Malka",
+            "Y. Lelkes",
+            "B. N. Bakker",
+            "E. Spivack"
+          ],
+          "venue": "Perspectives on Politics",
+          "doi": "",
+          "url": "",
+          "citation": "A. Malka, Y. Lelkes, B. N. Bakker, & E. Spivack (2022). Who Is Open to Authoritarian Governance Within Western Democracies?. Perspectives on Politics, 20(3), 808–827"
+        },
+        {
+          "id": "Fischer2022ReplyLocalNews",
+          "year": "2022",
+          "title": "Reply to: Local News in Google News",
+          "authors": [
+            "S. Fischer",
+            "K. Jaidka",
+            "Y. Lelkes"
+          ],
+          "venue": "Nature Human Behaviour",
+          "doi": "",
+          "url": "",
+          "citation": "S. Fischer, K. Jaidka, & Y. Lelkes (2022). Reply to: Local News in Google News. Nature Human Behaviour, 6(8), 1045–1047"
+        },
+        {
+          "id": "Kim2022MediaBias",
+          "year": "2022",
+          "title": "Measuring Dynamic Media Bias",
+          "authors": [
+            "E. Kim",
+            "Y. Lelkes",
+            "J. McCrain"
+          ],
+          "venue": "Proceedings of the National Academy of Sciences",
+          "doi": "",
+          "url": "",
+          "citation": "E. Kim, Y. Lelkes, & J. McCrain (2022). Measuring Dynamic Media Bias. Proceedings of the National Academy of Sciences, 119(32)"
+        },
+        {
+          "id": "Lee2022PositivePartisanship",
+          "year": "2022",
+          "title": "Negative Partisanship Is Not More Prevalent Than Positive Partisanship",
+          "authors": [
+            "A. H. Y. Lee",
+            "Y. Lelkes",
+            "C. B. Hawkins",
+            "A. G. Theodoridis"
+          ],
+          "venue": "Nature Human Behaviour",
+          "doi": "",
+          "url": "",
+          "citation": "A. H. Y. Lee, Y. Lelkes, C. B. Hawkins, & A. G. Theodoridis (2022). Negative Partisanship Is Not More Prevalent Than Positive Partisanship. Nature Human Behaviour, 6, 951–963"
+        },
+        {
+          "id": "Mukerjee2022Twitterverse",
+          "year": "2022",
+          "title": "The Political Landscape of the U.S. Twitterverse",
+          "authors": [
+            "S. Mukerjee",
+            "K. Jaidka",
+            "Y. Lelkes"
+          ],
+          "venue": "Political Communication",
+          "doi": "",
+          "url": "",
+          "citation": "S. Mukerjee, K. Jaidka, & Y. Lelkes (2022). The Political Landscape of the U.S. Twitterverse. Political Communication, 1–31"
+        },
+        {
+          "id": "Jaidka2022BeyondAnonymity",
+          "year": "2022",
+          "title": "Beyond Anonymity: Network Affordances, Under Deindividuation, Improve Social Media Discussion Quality",
+          "authors": [
+            "K. Jaidka",
+            "A. Zhou",
+            "Y. Lelkes",
+            "J. Egelhofer",
+            "S. Lecheler"
+          ],
+          "venue": "Journal of Computer-Mediated Communication",
+          "doi": "",
+          "url": "",
+          "citation": "K. Jaidka, A. Zhou, Y. Lelkes, J. Egelhofer, & S. Lecheler (2022). Beyond Anonymity: Network Affordances, Under Deindividuation, Improve Social Media Discussion Quality. Journal of Computer-Mediated Communication, 27(1)"
+        },
+        {
+          "id": "Dias2022NatureAffective",
+          "year": "2022",
+          "title": "The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity",
+          "authors": [
+            "N. Dias",
+            "Y. Lelkes"
+          ],
+          "venue": "American Journal of Political Science",
+          "doi": "",
+          "url": "",
+          "citation": "N. Dias & Y. Lelkes (2022). The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity. American Journal of Political Science, 66(3), 775–790"
+        },
+        {
+          "id": "Lelkes2021NegativePartisanship",
+          "year": "2021",
+          "title": "What Do We Mean by Negative Partisanship?",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "The Forum",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2021). What Do We Mean by Negative Partisanship?. The Forum, 19(3), 481–497"
+        },
+        {
+          "id": "Lelkes2021PolicyOverParty",
+          "year": "2021",
+          "title": "Policy over Party: Comparing the Effects of Candidate Ideology and Party on Affective Polarization",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "Political Science Research and Methods",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2021). Policy over Party: Comparing the Effects of Candidate Ideology and Party on Affective Polarization. Political Science Research and Methods, 9(1), 189–196"
+        },
+        {
+          "id": "Santos2021LinkRecommendation",
+          "year": "2021",
+          "title": "Link Recommendation Algorithms and Dynamics of Polarization in Online Social Networks",
+          "authors": [
+            "F. P. Santos",
+            "Y. Lelkes",
+            "S. A. Levin"
+          ],
+          "venue": "Proceedings of the National Academy of Sciences",
+          "doi": "",
+          "url": "",
+          "citation": "F. P. Santos, Y. Lelkes, & S. A. Levin (2021). Link Recommendation Algorithms and Dynamics of Polarization in Online Social Networks. Proceedings of the National Academy of Sciences, 118(50), e2102141118"
+        },
+        {
+          "id": "Kawakatsu2021Interindividual",
+          "year": "2021",
+          "title": "Interindividual Cooperation Mediated by Partisanship Complicates Madison's Cure for \"Mischiefs of Faction.\"",
+          "authors": [
+            "M. Kawakatsu",
+            "Y. Lelkes",
+            "S. A. Levin",
+            "C. E. Tarnita"
+          ],
+          "venue": "Proceedings of the National Academy of Sciences",
+          "doi": "",
+          "url": "",
+          "citation": "M. Kawakatsu, Y. Lelkes, S. A. Levin, & C. E. Tarnita (2021). Interindividual Cooperation Mediated by Partisanship Complicates Madison's Cure for \"Mischiefs of Faction.\". Proceedings of the National Academy of Sciences, 118(50), e2102148118"
+        },
+        {
+          "id": "Leonard2021Nonlinear",
+          "year": "2021",
+          "title": "The Nonlinear Feedback Dynamics of Asymmetric Political Polarization",
+          "authors": [
+            "N. E. Leonard",
+            "K. Lipsitz",
+            "A. Bizyaeva",
+            "A. Franci",
+            "Y. Lelkes"
+          ],
+          "venue": "Proceedings of the National Academy of Sciences",
+          "doi": "",
+          "url": "",
+          "citation": "N. E. Leonard, K. Lipsitz, A. Bizyaeva, A. Franci, & Y. Lelkes (2021). The Nonlinear Feedback Dynamics of Asymmetric Political Polarization. Proceedings of the National Academy of Sciences, 118(50), e2102149118"
+        },
+        {
+          "id": "Bakker2021Questionable",
+          "year": "2021",
+          "title": "Questionable and Open Research Practices: Attitudes and Perceptions among Quantitative Communication Researchers",
+          "authors": [
+            "B. N. Bakker",
+            "K. Jaidka",
+            "T. Dörr",
+            "N. Fasching",
+            "Y. Lelkes"
+          ],
+          "venue": "Journal of Communication",
+          "doi": "",
+          "url": "",
+          "citation": "B. N. Bakker, K. Jaidka, T. Dörr, N. Fasching, & Y. Lelkes (2021). Questionable and Open Research Practices: Attitudes and Perceptions among Quantitative Communication Researchers. Journal of Communication, 71(5), 715–738"
+        },
+        {
+          "id": "Yang2021PolicingDivide",
+          "year": "2021",
+          "title": "Policing the Digital Divide: Institutional Gatekeeping and Criminalizing Digital Inclusion",
+          "authors": [
+            "T. Yang",
+            "J. Ticona",
+            "Y. Lelkes"
+          ],
+          "venue": "Journal of Communication",
+          "doi": "",
+          "url": "",
+          "citation": "T. Yang, J. Ticona, & Y. Lelkes (2021). Policing the Digital Divide: Institutional Gatekeeping and Criminalizing Digital Inclusion. Journal of Communication, 71(4), 572–597"
+        },
+        {
+          "id": "Bakker2021PersonalityPreferences",
+          "year": "2021",
+          "title": "Reconsidering the Link Between Self-Reported Personality Traits and Political Preferences",
+          "authors": [
+            "B. N. Bakker",
+            "Y. Lelkes",
+            "A. Malka"
+          ],
+          "venue": "American Political Science Review",
+          "doi": "",
+          "url": "",
+          "citation": "B. N. Bakker, Y. Lelkes, & A. Malka (2021). Reconsidering the Link Between Self-Reported Personality Traits and Political Preferences. American Political Science Review, 115(4), 1482–1498"
+        },
+        {
+          "id": "BrenesPeralta2021Guns",
+          "year": "2021",
+          "title": "Can I Stick to My Guns? Motivated Reasoning and Biased Processing of Balanced Political Information",
+          "authors": [
+            "C. Brenes Peralta",
+            "M. Wojcieszak",
+            "Y. Lelkes"
+          ],
+          "venue": "Communication & Society",
+          "doi": "",
+          "url": "",
+          "citation": "C. Brenes Peralta, M. Wojcieszak, & Y. Lelkes (2021). Can I Stick to My Guns? Motivated Reasoning and Biased Processing of Balanced Political Information. Communication & Society, 49–66"
+        },
+        {
+          "id": "Fischer2020AuditingLocalNews",
+          "year": "2020",
+          "title": "Auditing Local News Presence on Google News",
+          "authors": [
+            "S. Fischer",
+            "K. Jaidka",
+            "Y. Lelkes"
+          ],
+          "venue": "Nature Human Behaviour",
+          "doi": "",
+          "url": "",
+          "citation": "S. Fischer, K. Jaidka, & Y. Lelkes (2020). Auditing Local News Presence on Google News. Nature Human Behaviour, 4(12), 1236–1244"
+        },
+        {
+          "id": "Lelkes2020BiggerPie",
+          "year": "2020",
+          "title": "A Bigger Pie: The Effects of High-Speed Internet on Political Behavior",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "Journal of Computer-Mediated Communication",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2020). A Bigger Pie: The Effects of High-Speed Internet on Political Behavior. Journal of Computer-Mediated Communication, 25(3), 199–216"
+        },
+        {
+          "id": "Westwood2020ProbabilisticHorseRace",
+          "year": "2020",
+          "title": "Projecting Confidence: How the Probabilistic Horse Race Confuses and Demobilizes the Public",
+          "authors": [
+            "S. J. Westwood",
+            "S. Messing",
+            "Y. Lelkes"
+          ],
+          "venue": "The Journal of Politics",
+          "doi": "",
+          "url": "",
+          "citation": "S. J. Westwood, S. Messing, & Y. Lelkes (2020). Projecting Confidence: How the Probabilistic Horse Race Confuses and Demobilizes the Public. The Journal of Politics, 82(4), 1530–1544"
+        },
+        {
+          "id": "Bakker2020CueReceptivity",
+          "year": "2020",
+          "title": "Understanding Partisan Cue Receptivity: Tests of Predictions from the Bounded Rationality and Expressive Utility Perspectives",
+          "authors": [
+            "B. N. Bakker",
+            "Y. Lelkes",
+            "A. Malka"
+          ],
+          "venue": "The Journal of Politics",
+          "doi": "",
+          "url": "",
+          "citation": "B. N. Bakker, Y. Lelkes, & A. Malka (2020). Understanding Partisan Cue Receptivity: Tests of Predictions from the Bounded Rationality and Expressive Utility Perspectives. The Journal of Politics, 82(3), 1061–1077"
+        },
+        {
+          "id": "Westwood2019LimitsPrejudice",
+          "year": "2019",
+          "title": "Are There Still Limits on Partisan Prejudice?",
+          "authors": [
+            "S. Westwood",
+            "E. Petersen",
+            "Y. Lelkes"
+          ],
+          "venue": "Public Opinion Quarterly",
+          "doi": "",
+          "url": "",
+          "citation": "S. Westwood, E. Petersen, & Y. Lelkes (2019). Are There Still Limits on Partisan Prejudice?. Public Opinion Quarterly, 83(3), 584–597"
+        },
+        {
+          "id": "Jaidka2019BrevityTwitter",
+          "year": "2019",
+          "title": "Brevity Is the Soul of Twitter: The Constraint Affordance and Political Discussion",
+          "authors": [
+            "K. Jaidka",
+            "A. Zhou",
+            "Y. Lelkes"
+          ],
+          "venue": "Journal of Communication",
+          "doi": "",
+          "url": "",
+          "citation": "K. Jaidka, A. Zhou, & Y. Lelkes (2019). Brevity Is the Soul of Twitter: The Constraint Affordance and Political Discussion. Journal of Communication, 69(4), 345–372"
+        },
+        {
+          "id": "Iyengar2019OriginsConsequences",
+          "year": "2019",
+          "title": "The Origins and Consequences of Affective Polarization in the United States",
+          "authors": [
+            "S. Iyengar",
+            "Y. Lelkes",
+            "M. Levendusky",
+            "N. Malhotra",
+            "S. J. Westwood"
+          ],
+          "venue": "Annual Review of Political Science",
+          "doi": "",
+          "url": "",
+          "citation": "S. Iyengar, Y. Lelkes, M. Levendusky, N. Malhotra, & S. J. Westwood (2019). The Origins and Consequences of Affective Polarization in the United States. Annual Review of Political Science, 22, 129–146"
+        },
+        {
+          "id": "Kim2019RaceInterviewer",
+          "year": "2019",
+          "title": "Race of Interviewer Effects in Telephone Surveys Preceding the 2008 U.S. Presidential Election",
+          "authors": [
+            "N. Kim",
+            "J. A. Krosnick",
+            "Y. Lelkes"
+          ],
+          "venue": "International Journal of Public Opinion Research",
+          "doi": "",
+          "url": "",
+          "citation": "N. Kim, J. A. Krosnick, & Y. Lelkes (2019). Race of Interviewer Effects in Telephone Surveys Preceding the 2008 U.S. Presidential Election. International Journal of Public Opinion Research, 31(2), 220–242"
+        },
+        {
+          "id": "Malka2019CulturalEconomic",
+          "year": "2019",
+          "title": "Are Cultural and Economic Conservatism Positively Correlated? A Large-Scale Cross-National Test",
+          "authors": [
+            "A. Malka",
+            "Y. Lelkes",
+            "C. Soto"
+          ],
+          "venue": "British Journal of Political Science",
+          "doi": "",
+          "url": "",
+          "citation": "A. Malka, Y. Lelkes, & C. Soto (2019). Are Cultural and Economic Conservatism Positively Correlated? A Large-Scale Cross-National Test. British Journal of Political Science, 49(3), 1045–1069"
+        },
+        {
+          "id": "Bakker2018SellingShort",
+          "year": "2018",
+          "title": "Selling Ourselves Short: The Implications of Brief Personality Measures for Political Psychology",
+          "authors": [
+            "B. Bakker",
+            "Y. Lelkes"
+          ],
+          "venue": "Journal of Politics",
+          "doi": "",
+          "url": "",
+          "citation": "B. Bakker & Y. Lelkes (2018). Selling Ourselves Short: The Implications of Brief Personality Measures for Political Psychology. Journal of Politics, 80(4), 1311–1325"
+        },
+        {
+          "id": "Lelkes2018AffectiveSorting",
+          "year": "2018",
+          "title": "Affective Polarization and Ideological Sorting: A Reciprocal, Albeit Weak, Relationship",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "The Forum: A Journal of Applied Research in Contemporary Politics",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2018). Affective Polarization and Ideological Sorting: A Reciprocal, Albeit Weak, Relationship. The Forum: A Journal of Applied Research in Contemporary Politics, 16(1), 23–45"
+        },
+        {
+          "id": "Lelkes2017HostileAudience",
+          "year": "2017",
+          "title": "The Hostile Audience: The Effect of Access to Broadband Internet on Partisan Affect",
+          "authors": [
+            "Y. Lelkes",
+            "G. Sood",
+            "S. Iyengar"
+          ],
+          "venue": "American Journal of Political Science",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes, G. Sood, & S. Iyengar (2017). The Hostile Audience: The Effect of Access to Broadband Internet on Partisan Affect. American Journal of Political Science, 61(1), 5–20"
+        },
+        {
+          "id": "DeVreese2017Linking",
+          "year": "2017",
+          "title": "Linking Survey and Media Content Data: Opportunities, Considerations, and Pitfalls",
+          "authors": [
+            "C. H. De Vreese",
+            "M. Boukes",
+            "A. Schuck",
+            "R. Vliegenthart",
+            "L. Bos",
+            "Y. Lelkes"
+          ],
+          "venue": "Communication Methods and Measures",
+          "doi": "",
+          "url": "",
+          "citation": "C. H. De Vreese, M. Boukes, A. Schuck, R. Vliegenthart, L. Bos, & Y. Lelkes (2017). Linking Survey and Media Content Data: Opportunities, Considerations, and Pitfalls. Communication Methods and Measures, 11(4), 221–244"
+        },
+        {
+          "id": "BrenesPeralta2017SelectiveExposure",
+          "year": "2017",
+          "title": "Selective Exposure to Balanced Content and Evidence Type: The Case of Issue and Non-Issue Publics About Climate Change and Health Care",
+          "authors": [
+            "C. Brenes Peralta",
+            "M. Wojcieszak",
+            "Y. Lelkes"
+          ],
+          "venue": "Journalism & Mass Communication Quarterly",
+          "doi": "",
+          "url": "",
+          "citation": "C. Brenes Peralta, M. Wojcieszak, & Y. Lelkes (2017). Selective Exposure to Balanced Content and Evidence Type: The Case of Issue and Non-Issue Publics About Climate Change and Health Care. Journalism & Mass Communication Quarterly, 94(3), 833–861"
+        },
+        {
+          "id": "Lelkes2017LimitsDiscrimination",
+          "year": "2017",
+          "title": "The Limits of Partisan Discrimination",
+          "authors": [
+            "Y. Lelkes",
+            "S. Westwood"
+          ],
+          "venue": "Journal of Politics",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes & S. Westwood (2017). The Limits of Partisan Discrimination. Journal of Politics, 79(2), 485–501"
+        },
+        {
+          "id": "Lelkes2017IdeologicalAsymmetry",
+          "year": "2016",
+          "title": "The Ideological Asymmetry of the American Party System",
+          "authors": [
+            "Y. Lelkes",
+            "P. M. Sniderman"
+          ],
+          "venue": "British Journal of Political Science",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes & P. M. Sniderman (2016). The Ideological Asymmetry of the American Party System. British Journal of Political Science, 46(4), 825–844"
+        },
+        {
+          "id": "Lelkes2016MassPolarization",
+          "year": "2016",
+          "title": "Mass Polarization: Manifestations and Measurements",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "Public Opinion Quarterly",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2016). Mass Polarization: Manifestations and Measurements. Public Opinion Quarterly, 80(S1), 392–410"
+        },
+        {
+          "id": "Lelkes2016WinnersLosersPress",
+          "year": "2016",
+          "title": "Winners, Losers, and the Press: The Relationship Between Political Parallelism and the Legitimacy Gap",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "Political Communication",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2016). Winners, Losers, and the Press: The Relationship Between Political Parallelism and the Legitimacy Gap. Political Communication, 33(4), 523–543"
+        },
+        {
+          "id": "Lelkes2015Acquiescence",
+          "year": "2015",
+          "title": "Much Ado About Acquiescence: The Relative Validity and Reliability of Construct-Specific and Agree–Disagree Questions",
+          "authors": [
+            "Y. Lelkes",
+            "R. Weiss"
+          ],
+          "venue": "Research & Politics",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes & R. Weiss (2015). Much Ado About Acquiescence: The Relative Validity and Reliability of Construct-Specific and Agree–Disagree Questions. Research & Politics, 2(3)"
+        },
+        {
+          "id": "Malka2014SecurityCertainty",
+          "year": "2014",
+          "title": "Do Needs for Security and Certainty Predict Cultural and Economic Conservatism? A Cross-National Analysis",
+          "authors": [
+            "A. Malka",
+            "C. Soto",
+            "M. Inzlicht",
+            "Y. Lelkes"
+          ],
+          "venue": "Journal of Personality and Social Psychology",
+          "doi": "",
+          "url": "",
+          "citation": "A. Malka, C. Soto, M. Inzlicht, & Y. Lelkes (2014). Do Needs for Security and Certainty Predict Cultural and Economic Conservatism? A Cross-National Analysis. Journal of Personality and Social Psychology, 106, 1031–1051"
+        },
+        {
+          "id": "Iyengar2012AffectNotIdeology",
+          "year": "2012",
+          "title": "Affect, Not Ideology: A Social Identity Perspective on Polarization",
+          "authors": [
+            "S. Iyengar",
+            "G. Sood",
+            "Y. Lelkes"
+          ],
+          "venue": "Public Opinion Quarterly",
+          "doi": "",
+          "url": "",
+          "citation": "S. Iyengar, G. Sood, & Y. Lelkes (2012). Affect, Not Ideology: A Social Identity Perspective on Polarization. Public Opinion Quarterly, 76(3), 405–431"
+        },
+        {
+          "id": "Lelkes2012Anonymity",
+          "year": "2012",
+          "title": "Complete Anonymity Produces an Apparent Reduction in Social Desirability Response Bias at the Expense of Accuracy",
+          "authors": [
+            "Y. Lelkes",
+            "J. A. Krosnick",
+            "D. M. Marx",
+            "C. Judd",
+            "B. M. Park"
+          ],
+          "venue": "Journal of Experimental Social Psychology",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes, J. A. Krosnick, D. M. Marx, C. Judd, & B. M. Park (2012). Complete Anonymity Produces an Apparent Reduction in Social Desirability Response Bias at the Expense of Accuracy. Journal of Experimental Social Psychology, 48(6), 1291–1299"
+        },
+        {
+          "id": "Ross2012Projection",
+          "year": "2012",
+          "title": "Projection as a Means of Dissonance Reduction: How Christians Reconcile Their Personal Political Views and the Teachings of Their Faith",
+          "authors": [
+            "L. D. Ross",
+            "Y. Lelkes",
+            "A. G. Russell"
+          ],
+          "venue": "Proceedings of the National Academy of Sciences",
+          "doi": "",
+          "url": "",
+          "citation": "L. D. Ross, Y. Lelkes, & A. G. Russell (2012). Projection as a Means of Dissonance Reduction: How Christians Reconcile Their Personal Political Views and the Teachings of Their Faith. Proceedings of the National Academy of Sciences, 109(10), 3616–3622"
+        },
+        {
+          "id": "Malka2012ReligiosityConservatism",
+          "year": "2012",
+          "title": "Association of Religiosity and Political Conservatism: The Role of Engagement with Political Discourse",
+          "authors": [
+            "A. Malka",
+            "Y. Lelkes",
+            "S. Srivastava",
+            "A. B. Cohen",
+            "D. T. Miller"
+          ],
+          "venue": "Political Psychology",
+          "doi": "",
+          "url": "",
+          "citation": "A. Malka, Y. Lelkes, S. Srivastava, A. B. Cohen, & D. T. Miller (2012). Association of Religiosity and Political Conservatism: The Role of Engagement with Political Discourse. Political Psychology, 33, 275–295"
+        },
+        {
+          "id": "Malka2010IdentityCues",
+          "year": "2010",
+          "title": "More Than Ideology: Conservative–Liberal Identity and Receptivity to Political Cues",
+          "authors": [
+            "A. Malka",
+            "Y. Lelkes"
+          ],
+          "venue": "Social Justice Research",
+          "doi": "",
+          "url": "",
+          "citation": "A. Malka & Y. Lelkes (2010). More Than Ideology: Conservative–Liberal Identity and Receptivity to Political Cues. Social Justice Research, 23, 156–188"
+        },
+        {
+          "id": "Pasek2009DeterminantsTurnout",
+          "year": "2009",
+          "title": "Determinants of Turnout and Candidate Choice in the 2008 U.S. Presidential Election: Illuminating the Impact of Racial Prejudice and Other Considerations",
+          "authors": [
+            "J. Pasek",
+            "A. Tahk",
+            "Y. Lelkes",
+            "J. A. Krosnick",
+            "B. K. Payne",
+            "O. Akhtar",
+            "T. Tompson"
+          ],
+          "venue": "Public Opinion Quarterly",
+          "doi": "",
+          "url": "",
+          "citation": "J. Pasek, A. Tahk, Y. Lelkes, J. A. Krosnick, B. K. Payne, O. Akhtar, & T. Tompson (2009). Determinants of Turnout and Candidate Choice in the 2008 U.S. Presidential Election: Illuminating the Impact of Racial Prejudice and Other Considerations. Public Opinion Quarterly, 73, 943–994"
+        },
+        {
+          "id": "Payne2009ImplicitExplicit",
+          "year": "2009",
+          "title": "Implicit and Explicit Prejudice in the 2008 American Presidential Election",
+          "authors": [
+            "B. K. Payne",
+            "J. A. Krosnick",
+            "J. Pasek",
+            "Y. Lelkes",
+            "O. Akhtar",
+            "T. Tompson"
+          ],
+          "venue": "Journal of Experimental Social Psychology",
+          "doi": "",
+          "url": "",
+          "citation": "B. K. Payne, J. A. Krosnick, J. Pasek, Y. Lelkes, O. Akhtar, & T. Tompson (2009). Implicit and Explicit Prejudice in the 2008 American Presidential Election. Journal of Experimental Social Psychology, 46, 367–374"
+        }
+      ]
+    },
+    {
+      "title": "Non-Peer-Reviewed Contributions",
+      "items": [
+        {
+          "id": "Lelkes2023MarketingScienceCommentary",
+          "year": "2023",
+          "title": "Commentary on \"Frontiers: Spilling the Beans on Political Consumerism: Do Social Media Boycotts and Buycotts Translate to Real Sales Impact?\"",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "Marketing Science",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2023). Commentary on \"Frontiers: Spilling the Beans on Political Consumerism: Do Social Media Boycotts and Buycotts Translate to Real Sales Impact?\". Marketing Science, 42(1), 26–27"
+        },
+        {
+          "id": "MooreBerg2020NeuralPolarization",
+          "year": "2020",
+          "title": "Neural Polarization and Routes to Depolarization",
+          "authors": [
+            "S. L. Moore-Berg",
+            "J. M. Parelman",
+            "Y. Lelkes",
+            "E. B. Falk"
+          ],
+          "venue": "Proceedings of the National Academy of Sciences",
+          "doi": "",
+          "url": "",
+          "citation": "S. L. Moore-Berg, J. M. Parelman, Y. Lelkes, & E. B. Falk (2020). Neural Polarization and Routes to Depolarization. Proceedings of the National Academy of Sciences, 117(46), 28552–28554"
+        },
+        {
+          "id": "Fischer2023EmotionChapter",
+          "year": "2023",
+          "title": "Emotion, Affective Polarization, and Online Communication",
+          "authors": [
+            "S. Fischer",
+            "Y. Lelkes"
+          ],
+          "venue": "Emotions in the Digital World: Exploring Affective Experience and Expression in Online Interactions",
+          "doi": "",
+          "url": "",
+          "citation": "S. Fischer & Y. Lelkes (2023). Emotion, Affective Polarization, and Online Communication. Emotions in the Digital World: Exploring Affective Experience and Expression in Online Interactions, 401–421"
+        },
+        {
+          "id": "Bakker2022MassBeliefSystems",
+          "year": "2022",
+          "title": "The Structure, Prevalence, and Nature of Mass Belief Systems",
+          "authors": [
+            "B. Bakker",
+            "Y. Lelkes"
+          ],
+          "venue": "Cambridge Handbook of Political Psychology",
+          "doi": "",
+          "url": "",
+          "citation": "B. Bakker & Y. Lelkes (2022). The Structure, Prevalence, and Nature of Mass Belief Systems. Cambridge Handbook of Political Psychology"
+        },
+        {
+          "id": "Lelkes2019MediaBiasOxford",
+          "year": "2019",
+          "title": "National and Cross-National Perspectives on Political Media Bias",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "Oxford Handbook of Electoral Persuasion",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2019). National and Cross-National Perspectives on Political Media Bias. Oxford Handbook of Electoral Persuasion"
+        },
+        {
+          "id": "Sood2018ExposeYourself",
+          "year": "2018",
+          "title": "Expose Yourself: Discretionary Exposure to Political Information",
+          "authors": [
+            "G. Sood",
+            "Y. Lelkes"
+          ],
+          "venue": "The Oxford Research Encyclopedia of Politics",
+          "doi": "",
+          "url": "",
+          "citation": "G. Sood & Y. Lelkes (2018). Expose Yourself: Discretionary Exposure to Political Information. The Oxford Research Encyclopedia of Politics"
+        },
+        {
+          "id": "Malka2017RigidityRight",
+          "year": "2017",
+          "title": "Rethinking the Rigidity of the Right Model: Three Suboptimal Methodological Practices and Their Implications",
+          "authors": [
+            "A. Malka",
+            "Y. Lelkes",
+            "N. Holzer"
+          ],
+          "venue": "Frontiers of Social Psychology: Politics of Social Psychology",
+          "doi": "",
+          "url": "",
+          "citation": "A. Malka, Y. Lelkes, & N. Holzer (2017). Rethinking the Rigidity of the Right Model: Three Suboptimal Methodological Practices and Their Implications. Frontiers of Social Psychology: Politics of Social Psychology"
+        },
+        {
+          "id": "Lelkes2010Priming",
+          "year": "2010",
+          "title": "Priming",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "International Encyclopedia of Political Science",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2010). Priming. International Encyclopedia of Political Science"
+        },
+        {
+          "id": "Lelkes2010WarrenMiller",
+          "year": "2010",
+          "title": "Warren Miller",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "International Encyclopedia of Political Science",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2010). Warren Miller. International Encyclopedia of Political Science"
+        }
+      ]
+    },
+    {
+      "title": "Book Reviews",
+      "items": [
+        {
+          "id": "Lelkes2018ReviewMason",
+          "year": "2018",
+          "title": "Review of the Book \"Uncivil Agreement: How Politics Became Our Identity\" by Lilliana Mason",
+          "authors": [
+            "Y. Lelkes"
+          ],
+          "venue": "Perspectives on Politics",
+          "doi": "",
+          "url": "",
+          "citation": "Y. Lelkes (2018). Review of the Book \"Uncivil Agreement: How Politics Became Our Identity\" by Lilliana Mason. Perspectives on Politics, 16, 1179–1181"
+        }
+      ]
+    },
+    {
+      "title": "Op-Eds",
+      "items": [
+        {
+          "id": "Lelkes2022HillOped",
+          "year": "2022",
+          "title": "We Study Political Polarization. The Midterm Election Results Make Us Hopeful",
+          "authors": [
+            "Y. Lelkes",
+            "S. J. Westwood"
+          ],
+          "venue": "",
+          "doi": "",
+          "url": "https://thehill.com/opinion/campaign/3742552-we-study-political-polarization-the-midterm-election-results-make-us-hopeful/",
+          "citation": "Y. Lelkes & S. J. Westwood (2022). We Study Political Polarization. The Midterm Election Results Make Us Hopeful."
+        },
+        {
+          "id": "Groenendyk2022CheneyWapo",
+          "year": "2022",
+          "title": "Liz Cheney Is Extremely Conservative. That Won't Win Over Conservatives",
+          "authors": [
+            "E. Groenendyk",
+            "E. Kimbrough",
+            "Y. Lelkes",
+            "M. Pickup"
+          ],
+          "venue": "",
+          "doi": "",
+          "url": "https://www.washingtonpost.com/politics/2022/08/02/cheney-trump-conservative-liberal-ideology/",
+          "citation": "E. Groenendyk, E. Kimbrough, Y. Lelkes, & M. Pickup (2022). Liz Cheney Is Extremely Conservative. That Won't Win Over Conservatives."
+        },
+        {
+          "id": "Fischer2020GoogleLocalNews",
+          "year": "2020",
+          "title": "How Google Is Hurting Local News",
+          "authors": [
+            "S. Fischer",
+            "K. Jaidka",
+            "Y. Lelkes"
+          ],
+          "venue": "",
+          "doi": "",
+          "url": "https://www.washingtonpost.com/politics/2020/12/22/how-google-is-hurting-local-news/",
+          "citation": "S. Fischer, K. Jaidka, & Y. Lelkes (2020). How Google Is Hurting Local News."
+        },
+        {
+          "id": "Lelkes2020USATodayForecasts",
+          "year": "2020",
+          "title": "Election Forecasts Helped Elect Trump in 2016. It Could Happen Again in 2020",
+          "authors": [
+            "Y. Lelkes",
+            "S. Messing",
+            "S. Westwood"
+          ],
+          "venue": "",
+          "doi": "",
+          "url": "https://www.usatoday.com/story/opinion/2020/10/01/election-forecasts-can-wrong-you-still-need-vote-column/5857993002/",
+          "citation": "Y. Lelkes, S. Messing, & S. Westwood (2020). Election Forecasts Helped Elect Trump in 2016. It Could Happen Again in 2020."
+        },
+        {
+          "id": "Federico2020CovidViews",
+          "year": "2020",
+          "title": "Will the COVID-19 Pandemic Shake Up Conservatives' Views on Government Spending and Involvement in the Economy? Maybe",
+          "authors": [
+            "C. M. Federico",
+            "C. D. Johnston",
+            "H. Lavine",
+            "Y. Lelkes",
+            "A. Malka",
+            "C. Soto"
+          ],
+          "venue": "",
+          "doi": "",
+          "url": "https://www.washingtonpost.com/politics/2020/04/15/will-coronavirus-make-conservatives-love-government-spending/",
+          "citation": "C. M. Federico, C. D. Johnston, H. Lavine, Y. Lelkes, A. Malka, & C. Soto (2020). Will the COVID-19 Pandemic Shake Up Conservatives' Views on Government Spending and Involvement in the Economy? Maybe."
+        },
+        {
+          "id": "Lelkes2019TwitterLength",
+          "year": "2019",
+          "title": "Twitter Got Somewhat More Civil When Tweets Doubled in Length. Here's How We Know",
+          "authors": [
+            "Y. Lelkes",
+            "K. Jaidka",
+            "A. Zhou"
+          ],
+          "venue": "",
+          "doi": "",
+          "url": "https://www.washingtonpost.com/politics/2019/09/17/twitter-got-somewhat-more-civil-when-tweets-doubled-length-heres-how-we-know/",
+          "citation": "Y. Lelkes, K. Jaidka, & A. Zhou (2019). Twitter Got Somewhat More Civil When Tweets Doubled in Length. Here's How We Know."
+        },
+        {
+          "id": "Malka2017PostponeElection",
+          "year": "2017",
+          "title": "In a New Poll, Half of Republicans Say They Would Support Postponing the 2020 Election if Trump Proposed It",
+          "authors": [
+            "A. Malka",
+            "Y. Lelkes"
+          ],
+          "venue": "",
+          "doi": "",
+          "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2017/08/10/in-a-new-poll-half-of-republicans-say-they-would-support-postponing-the-2020-election-if-trump-proposed-it/",
+          "citation": "A. Malka & Y. Lelkes (2017). In a New Poll, Half of Republicans Say They Would Support Postponing the 2020 Election if Trump Proposed It."
+        },
+        {
+          "id": "Lelkes2016PoliciesPopular",
+          "year": "2016",
+          "title": "Democrats' Policies Are More Popular. But Republicans Are More Ideologically Unified",
+          "authors": [
+            "Y. Lelkes",
+            "P. Sniderman"
+          ],
+          "venue": "",
+          "doi": "",
+          "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2016/12/16/democrats-policies-are-more-popular-but-republicans-are-more-ideologically-unified/",
+          "citation": "Y. Lelkes & P. Sniderman (2016). Democrats' Policies Are More Popular. But Republicans Are More Ideologically Unified."
+        }
+      ]
+    }
+  ]
+}

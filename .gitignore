@@ -1,3 +1,32 @@
+# Hugo build output
+public/
+resources/
+hugo_stats.json
+.hugo_build.lock
+
+# Node dependencies and generated search index
+node_modules/
+.pnpm-store/
+pagefind/
+static/pagefind/
+
+# Local editor/project state
 .idea/
-.Rproj.user
-public
+.Rproj.user/
+
+# Local environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS metadata
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+*~
