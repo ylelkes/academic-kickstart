@@ -5,7 +5,7 @@ subtitle: |-
   Professor
   Annenberg School for Communication and
   Political Science (Secondary)
-  University of Pennsylvania.
+  University of Pennsylvania
 ---
 
 <h2>Bio</h2>
