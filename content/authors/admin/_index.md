@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Communication and Political Science (Secondary)
+role: Professor of Communication and Political Science (Secondary)
 
 # Organizations/Affiliations
 organizations:
@@ -45,9 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ylelkes
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.nl/citations?hl=en&user=agGvWl8AAAAJ
@@ -70,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Most of my work focuses on (affective) polarization, political information processing, and political ideology and identities. I am particularly interested in the interplay between information environments and these variables. In my research, I rely on a variety of quantitative tools, including survey, field, and natural experiments, as well as survey and geospatial data. I'm also the director of the [Democracy and Information Group](https://www.asc.upenn.edu/research/centers/democracy-and-information-group), where we explore these and related issues, and the co-director of the [Polarization Research Lab](https://polarizationresearchlab.org/).
+Most of my work focuses on (affective) polarization, political information processing, and political ideology and identities. I am particularly interested in the interplay between information environments and these variables. I'm the co-director of the [Center for Information Networks and Democracy](https://www.asc.upenn.edu/research/centers/center-for-information-networks-and-democracy), where we explore these and related issues, and the co-director of the [Polarization Research Lab](https://polarizationresearchlab.org/).
 
 Before joining the University of Pennsylvania, I was faculty at the Amsterdam School of Communication. I received my Ph.D. from Stanford University. My research has appeared or is forthcoming in various journals in Communication, Political Science, and Psychology, including the American Political Science Review, American Journal of Political Science, PNAS, the Journal of Politics, Nature Human Behavior, Journal of Communication, Journal of Computer-Mediated Communication, the British Journal of Political Science, Public Opinion Quarterly, Journal of Experimental Political Science, Political Psychology, the Journal of Personality and Social Psychology, and the Journal of Experimental Social Psychology.
